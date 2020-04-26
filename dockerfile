@@ -7,3 +7,6 @@ ADD . /app
 
 CMD []
 ENTRYPOINT ["swift", "prime.swift"]
+
+
+
